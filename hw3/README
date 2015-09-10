@@ -1,0 +1,7 @@
+Name: Gavin Leith
+UTEID: gdl386	
+Comments:
+
+Answers:
+4. The big O of elt is O(n), depending on the length of the list. This is equal to that of an array as the Array must depend on its size to find the nth term.
+5. Th shape of this curve is a parabola or also reffered to as a bell curve.

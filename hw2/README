@@ -1,0 +1,13 @@
+Name: Gavin Leith
+UTEID: gdl 386
+Comments: I was unable to get binomial to work, but it doesn't have any errors preventing the running of the program. Everything else should be
+	  correct.
+Answers:
+1. none
+2. An invariant for peanoplus would be if y was negative. The method would keep calling itself, subtracting 1 from y to infinite as y would never reach 0. The big O is directly related to y, making it n.
+3. The big O of peanotimes is also n*n as it calls on peanoplus(which has a big of n) n times depending on the y. The big O is n^2 (eek!).
+4. none
+5. none
+6. none
+7. none
+8. The binomial coefficients for the pascal triangle are the same as the solutions to choose 4 k. 

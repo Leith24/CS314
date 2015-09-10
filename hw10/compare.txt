@@ -1,0 +1,17 @@
+Austin to Muleshoe: 
+
+ Nodes:	 D: 71     A*: dist:11  halfass: 40  zip: 65  randombs: 65 randomlies: 25
+
+ Path:  D: 452    P: 501(path cost) 62(edgecost)   A*: dist:452  halfass: 452  zip: 452  randombs: 452 randomlies: 572
+
+Laredo to Haskell:
+
+nodes: D:67    A*: dist:14 halfass: 27  zip: 47  randombs: 47 randomlies: 9
+
+Path: D: 482   A*: dist:482  halfass: 482  zip: 482  randombs: 482 randomlies: 482
+
+Dumas to Corsicana:
+
+Nodes: D: 68    A*: dist:10  halfass: 25  zip: 34  randombs: 34 randomlies: 29
+
+Path: D: 467   A*: dist:467  halfass: 467  zip: 467  randombs: 467 randomlies: 559
